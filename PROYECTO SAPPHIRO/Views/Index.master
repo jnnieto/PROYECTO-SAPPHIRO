@@ -18,8 +18,6 @@
             margin-top: 24px;
         }
 
-
-
     </style>
 </head>
 <body>
@@ -46,8 +44,10 @@
                 </table>
             </div>
     </div>
+        <div class="vistaBoton">
         <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
         </asp:ContentPlaceHolder>
+        </div>
     </form>
 </body>
 </html>
