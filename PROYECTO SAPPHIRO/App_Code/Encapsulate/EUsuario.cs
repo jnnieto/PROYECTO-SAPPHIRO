@@ -10,6 +10,6 @@ public class EUsuario
 {
     public EUsuario()
     {
-      
+        Console.Write("Te gane mi amor ahahhhahahhahahah");
     }
 }
