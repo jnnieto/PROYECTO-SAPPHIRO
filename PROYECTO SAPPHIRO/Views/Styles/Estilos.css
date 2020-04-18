@@ -1,0 +1,29 @@
+﻿.banner {
+    min-height: 200px;
+    border-color: white;
+    background-image: linear-gradient( 180deg, #B9BDF3, #ffffff);
+    height: 150px;
+    width: 1800px;
+}
+.auto-style2 {
+    width: 146px;
+}
+.espacio {
+    width: 750px;
+}
+.link {
+    text-decoration: none;
+    font: bold 20px Yu Gothic;
+    color: #707070;
+}
+.btn-login {
+    background-color: white;
+    border-color: #707070;
+    border-radius: 50px;
+    width: 150px;
+}
+.texto-boton {
+    color: #707070;
+    font: bold 20px Yu Gothic;
+    text-decoration: none;
+}
