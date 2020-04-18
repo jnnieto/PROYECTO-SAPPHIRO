@@ -1,0 +1,49 @@
+﻿body {
+}
+
+.hola {
+    min-height: 100px;
+    border-color: white;
+    background-image: linear-gradient( 180deg, #B9BDF3, #ffffff);
+    height: 190px;
+}
+
+.active {
+    font: bold 60px Liquid Amber DEMO;
+}
+
+.auto-style3 {
+    background-color: #E4E4E4;
+    font: bold 60px Liquid Amber DEMO;
+    height: 182px;
+}
+
+.label {
+    text-align: center;
+    font-size: 50px;
+    color: #707070;
+    width: 500px;
+    font: bold 40px Liquid Amber DEMO;
+}
+
+.auto-style2 {
+    width: 498px;
+    height: 50px;
+    font: bold 20px Arial;
+    color: black;
+}
+
+.link {
+    text-align: center;
+    font-size: 40px;
+    color: #707070;
+    text-decoration: none;
+}
+
+.btn-ingresar {
+    background-color: #D9DBF9;
+    font: bold 40px Liquid Amber DEMO;
+    border-color: transparent;
+    height: 60px;
+    width: 300px;
+}
