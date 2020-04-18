@@ -11,7 +11,7 @@
                 <center>
                 <p class="infoIni">Lorem ipsum dolor sit amet, consecteur adipiscing elit. Nullam consequat, lectus et eleifend tristique, maruris augue sagittis libero, vel, vehicula nisi leo ullamcoper eros.</p>
                  <button class="btn-contactanos">
-                   <a class="texto-btnContacto" href="#">CONTÁCTANOS</a>
+                   <a class="texto-btnContacto" href="Contactanos.aspx">CONTÁCTANOS</a>
                  </button>
 
                 </center>

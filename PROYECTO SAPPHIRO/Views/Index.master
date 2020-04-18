@@ -29,10 +29,10 @@
                         <td class="auto-style3">
                             <img src="Images/LOGO-SAPPHIRO.png" height="100px" class="auto-style4" /> </td>
                         <td class="espacio"></td>
-                        <td>&nbsp;<a class="link" href="#">INICIO</a>&nbsp; </td>
+                        <td>&nbsp;<a class="link" href="Inicio.aspx">INICIO</a>&nbsp; </td>
                         <td></td>
                         <td></td>
-                        <td><a class="link" href="#">CONTÁCTANOS</a> </td>
+                        <td><a class="link" href="Contactanos.aspx">CONTÁCTANOS</a> </td>
                         <td></td>
                         <td></td>
                         <td class="auto-style2">

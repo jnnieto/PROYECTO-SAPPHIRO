@@ -51,14 +51,19 @@
     color: #707070;
     text-align:center;
 }
+.infoContact {
+    font: bold 14px Yu Gothic;
+    color: black;
+    text-align: center;
+}
 
 .btn-contactanos {
     background-color: #D9DBF8;
     vertical-align: middle;
     font: bold 25px Yu Gothic;
     border-color: #707070;
-    border-style:solid;
-    width:300px;
+    border-style: solid;
+    width: 300px;
     height: 70px;
 }
 
